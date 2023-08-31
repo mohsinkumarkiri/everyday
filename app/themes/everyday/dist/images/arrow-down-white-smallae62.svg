@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="9" height="21" viewBox="0 0 9 21">
+  <g id="arrow-down-white" transform="translate(0 -0.4)">
+    <g id="Dienst-single" transform="translate(0 0.4)">
+      <g id="arrow-up-test" transform="translate(9 21) rotate(-180)">
+        <path id="Path" d="M4.035.183.209,3.793a.778.778,0,0,0-.056.987.7.7,0,0,0,.984-.007L3.824,2.235V20.323a.675.675,0,1,0,1.35,0V2.235L7.86,4.773a.742.742,0,0,0,.984.007.767.767,0,0,0-.056-.987L4.963.183A.651.651,0,0,0,4.5,0,.757.757,0,0,0,4.035.183Z" transform="translate(0 0)" fill="#eff0f2"/>
+      </g>
+    </g>
+  </g>
+</svg>
